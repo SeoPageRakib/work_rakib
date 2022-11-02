@@ -1,0 +1,18 @@
+@media all and (max-width:1400px){}
+
+@media all and (max-width:11260px){}
+@media all and (max-width:1140px){}
+@media all and (max-width:1024px){}
+@media all and (max-width:991px){
+    .copyright_section p {
+        text-align: left;
+      }
+}
+@media all and (max-width:767px){
+    .acrrodion_heading_image {
+        width: 100% !important;
+    }
+    .acrrodion_heading_image img {
+        width: 100%;
+    }
+}
